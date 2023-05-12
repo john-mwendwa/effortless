@@ -1,0 +1,9 @@
+[11-Apr-2019 07:00:13 UTC] PHP Notice:  Undefined variable: query in /home/j6fqpuqr4waf/public_html/book-our-services.php on line 52
+[23-Dec-2020 03:13:24 UTC] PHP Notice:  Undefined variable: query in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 52
+[05-Mar-2021 07:11:40 UTC] PHP Notice:  Undefined index: service in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 46
+[05-Mar-2021 07:11:40 UTC] PHP Notice:  Undefined variable: query in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 86
+[09-Mar-2021 12:51:25 UTC] PHP Notice:  Undefined variable: query in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 52
+[30-Oct-2022 04:51:54 UTC] PHP Notice:  Undefined index: service in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 46
+[30-Oct-2022 04:51:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 51
+[30-Oct-2022 04:51:54 UTC] PHP Notice:  Undefined variable: query in /home/jmwendwa/public_html/effortlessinsightafrica.com/book-our-services.php on line 86
+[12-Mar-2023 17:44:29 UTC] PHP Notice:  Undefined variable: query in /home/y9wao3erzvrq/effortlessinsightafrica.com/book-our-services.php on line 52

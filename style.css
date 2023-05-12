@@ -1,0 +1,16 @@
+/*
+Theme Name: Lifeguide
+Theme URI: http://www.jmwendwa.com/
+Description: A theme
+Version: 1.
+Author: jmwendwa
+Author URI: http://www.your-personal-website.com/
+Tags: white, green (optional unless submitting to WP Repository)
+License: GNU General Public License v2.0 (optional unless submitting to WP Repository).
+License URI: http://www.gnu.org/licenses/gpl-2.0.html (optional unless submitting to WP Repository)
+*/
+body {
+margin:0;
+padding:0;
+}
+/* The Rest of the CSS */
