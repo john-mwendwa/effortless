@@ -157,11 +157,10 @@
 								<div class="teaser_icon highlight size_normal">
 									<i class="rt-icon2-location2"></i>
 								</div>
-
+                          <!-- Updated the location on contact page -->
 								<p>
-									<br> United Nations Crescent,
-									<br> Gigiri
-									<br>Nairobi, Kenya
+									<br> United Nations Crescent, Gigiri, Nairobi, Kenya
+									<br> Senteu Plaza, Lenana, Nairobi Kenya
 								</p>
 
 							</div>

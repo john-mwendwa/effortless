@@ -195,9 +195,9 @@ include "header.php";
 <section class="ls section_padding_top_50 darkarea">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
+		<!-- <div class="col-md-8 col-md-offset-2">
 				<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/JheeXCQgmIo?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="400" allowtransparency="true" frameborder="0"><div><a id=BtL3lAD6 href="https://www.missbudgetbeauty.co.uk/stop-smoking-in-style/ ">car troubles</a></div><div><a id=BtL3lAD6 href="https://www.codeguesser.co.uk/halfords.com ">https://www.codeguesser.co.uk/halfords.com</a></div><script>function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
-			</div>
+			</div> -->
 			
 			<div class="col-md-8 col-md-offset-2 you-call">
 				<a href="https://www.youtube.com/channel/UCIDPEcnyp9iiFH-5q9KG7BQ?view_as=public" class="clip" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i> View more videos</a>
@@ -212,12 +212,12 @@ include "header.php";
 		<div class="row">
 			<div class="col-md-6">
 				<h3 class="bottommargin_40">
-					<strong class="highlight weight-black fontsize_76">Titus Ngatia - 'TNT'  </strong> </h3>
+					<!-- Edited the Titus Ngatia bio -->
+					<strong class="highlight weight-black fontsize_76">Titus Ngatia </strong> </h3>
 					<p>
-						(Better known by his speaking brand name TNT) is a dynamic Speaker, 
-						visionary and consultant. He is highly sought after by corporations and organizations for his thought leadership, wisdom and 
-						mastery in the area of emotional intelligence and personal development. 
-
+					Titus Ngatia is a Kenyan Entrepreneur, and Advisor on Emotional Intelligence (EQ). 
+					He is the Founder and C.E.O of Effortless Insight Africa, transforming Africa through Education, and Entrepreneurship. 
+					Currently the convener of the Future of Education & Work in Africa 2023.
 					</p>
 					<a href="about.php" class="theme_button inverse topmargin_30">Read more</a>
 				</div>
