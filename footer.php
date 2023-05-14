@@ -10,8 +10,10 @@
 						<div class="media-left fontsize_16">
 							<i class="fa fa-map-marker"></i>
 						</div>
+						<!-- Updated the location -->
 						<div class="media-body">
-							Nairobi Kenya
+						United Nations Crescent, Gigiri, Nairobi Kenya	
+						Senteu Plaza, Lenana, Nairobi Kenya
 						</div>
 					</div>
 					<div class="media thin-media">
@@ -30,21 +32,23 @@
 							<a href="#">info@effortlessinsightafrica.com</a>
 						</div>
 					</div>
+					<!-- Changed to the new Twitter profile -->
 					<div class="topmargin_25">
 						<a href="https://www.facebook.com/TitusNgatiaTNT/" class="social-icon color-bg-icon rounded-icon soc-facebook" target="_blank"></a>
-						<a href="https://twitter.com/TNTIam" class="social-icon color-bg-icon rounded-icon soc-twitter" target="_blank"></a>
+						<a href="https://twitter.com/TTNgatia" class="social-icon color-bg-icon rounded-icon soc-twitter" target="_blank"></a>
 						<a href="https://www.instagram.com/titusngatiatnt/" class="social-icon color-bg-icon rounded-icon soc-instagram" target="_blank"></a>
 						<a href="https://www.linkedin.com/in/titusngatiatnt/" class="social-icon color-bg-icon rounded-icon soc-linkedin" target="_blank"></a>
 						<a href="https://www.youtube.com/channel/UCIDPEcnyp9iiFH-5q9KG7BQ?view_as=public" class="social-icon color-bg-icon rounded-icon soc-youtube" target="_blank"></a>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 col-sm-6">
+<!-- Unlinking the Newsletter section -->
+		<!--	<div class="col-md-6 col-sm-6">
 				<div class="widget widget_mailchimp">
 
 					<h3 class="widget-title">Newsletter</h3>
 
-					<p>Subscribe to our latest news to be updated, we promise not to spam!</p>
+					<p>Subscribe to our latest news to be updated, we promise not to spam!</p> -->
 
 					<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

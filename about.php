@@ -26,24 +26,19 @@
 						<div class="col-md-6">
 							<h3 class="bottommargin_40">
 								<strong class="highlight weight-black fontsize_76">About</strong> </h3>
-							<p>
-								Titus Ngatia Thumbi (better known by his speaking brand name TNT) is a dynamic Speaker, 
-								visionary and consultant. He is highly sought after by corporations and organizations for 
-								his thought leadership, wisdom and mastery in the area of emotional intelligence and personal 
-								development. He has invested thousands of hours getting to the fundamentals of personal development 
-								and universal life Principles that govern success. His customized teaching and training programs 
-								zero in on the Root issues, root causes, the hidden determinants of Results hence creating space 
-								for real decisions and Transformation. 	</p><p>
-								His unique style of fusing and relating Spiritual Truth, psychology, entrepreneurship, creativity and technology as well as other 
-								21stcentury trends and patterns brings a fresh perspective to our times that will transform your company culture and tap into the 
-								highest and best in each of the individuals who make up your team for PEAK PERFORMANCE.
-								
+							<!-- Edited the About Titus bio -->
+								<p>
+								Titus Ngatia is a Kenyan Entrepreneur, and Advisor on Emotional Intelligence (EQ). He is the Founder and C.E.O of Effortless Insight Africa, transforming Africa through Education, and Entrepreneurship. 
+								Currently the convener of the Future of Education & Work in Africa 2023. The conference will culminate in the unveiling of an Incubation Hub focused on EdTech, Innovation, Research & Design. 
+								He served in the National Steering Committee on Curriculum Reforms and the Academic Board of the Kenya Institute of Curriculum Development (KICD).	
+							</p>
+								<p>
+                                He was selected Judge in the Global Creative Business Cup, by the Creative Business Network (Denmark) & sponsored by Mercedes-Benz, which entailed innovative startups from 80+ countries. 
+								His company was among the 250 Kenyan companies invited to the inaugural EU-Kenya Business Forum as part of the EU Global Gateway Strategy.								
 							</p>
 							<p>
-								Having plugged into the Emotional Intelligence industry since his student days at the University of Orleans, France ,’TNT’ has 
-								spent thousands of hours under training by some of the world’s top authorities in the field such as Stephen Covey, Niurka 
-								(of Niurka Inc), Anthony Robbins, Brian Tracy ,Brendon Buchard among others. With Over a decade’s mastery under his belt, 
-								His mission is to work with Governments, corporations, individuals and institutions across Africa to help them become more Emotionally Intelligent.
+							He is multilingual, speaks fluent French, studied French as a foreign language (FLE) at the Université D’ Orléans, France. 
+							He holds a B.A in International Relations from the United States International University-Africa (USIU-A) and is pursuing M.A in International Relations with a concentration in Diplomacy and Foreign Policy.
 							</p>
 						</div>
 						<div class="col-md-6 pp text-center bottommargin_0">

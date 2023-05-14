@@ -111,23 +111,23 @@
 											<li>
 												<a href="about.php">About</a>
 											</li>
-											<li>
+										<!-- Unlinking the Services Page -->
+											<!-- <li>
 												<a href="services.php">Services</a>
 
-											</li>
+											</li> -->
 
 											<li>
-												<a href="#">More...</a>
+												<a href="#">Articles</a>
 												<ul>
-													<li>
+													<!-- Unlinking the Services Option -->
+													<!-- <li>
 														<a href="book-our-services.php">Book Our Services</a>
-													</li>
+													</li> -->
 													<li>
 														<a href="https://www.linkedin.com/in/titusngatiatnt/detail/recent-activity/posts/" target="_blank">Articles by TNT</a>
 													</li>
-
 												</ul>
-
 											</li>
 
 											<li>
