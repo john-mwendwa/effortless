@@ -12,6 +12,7 @@
 						</div>
 						<!-- Updated the location -->
 						<div class="media-body">
+
 						United Nations Crescent, Gigiri, Nairobi Kenya
 						</div>
 					</div>
