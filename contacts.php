@@ -146,7 +146,7 @@
 								</div>
 
 								<p>
-									<span class="grey">Phone:</span> +254 733 266638
+									<span class="grey">Phone:</span> +254 718 727587
 									<br>
 								</p>
 
@@ -160,7 +160,6 @@
                           <!-- Updated the location on contact page -->
 								<p>
 									<br> United Nations Crescent, Gigiri, Nairobi, Kenya
-									<br> Senteu Plaza, Lenana, Nairobi Kenya
 								</p>
 
 							</div>
