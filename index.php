@@ -192,9 +192,9 @@ include "header.php";
 </section> -->
 
 <!-- Unlinking the Youtube Video -->
-<!-- <section class="ls section_padding_top_50 darkarea"> -->
-<!--	<div class="container"> -->
-
+<!-- <section class="ls section_padding_top_50 darkarea">
+	<div class="container">
+		<div class="row"> -->
 		<!-- <div class="col-md-8 col-md-offset-2">
 				<iframe allowFullScreen="allowFullScreen" src="https://www.youtube.com/embed/JheeXCQgmIo?ecver=1&amp;iv_load_policy=1&amp;yt:stretch=16:9&amp;autohide=1&amp;color=red&amp;width=560&amp;width=560" width="560" height="400" allowtransparency="true" frameborder="0"><div><a id=BtL3lAD6 href="https://www.missbudgetbeauty.co.uk/stop-smoking-in-style/ ">car troubles</a></div><div><a id=BtL3lAD6 href="https://www.codeguesser.co.uk/halfords.com ">https://www.codeguesser.co.uk/halfords.com</a></div><script>function execute_YTvideo(){return youtube.query({ids:"channel==MINE",startDate:"2019-01-01",endDate:"2019-12-31",metrics:"views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,subscribersGained",dimensions:"day",sort:"day"}).then(function(e){},function(e){console.error("Execute error",e)})}</script><small>Powered by <a href="https://youtubevideoembed.com/ ">Embed YouTube Video</a></small></iframe>
 			</div> -->
