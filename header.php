@@ -118,16 +118,17 @@
 											</li> -->
 
 											<li>
-												<a href="#">Articles</a>
-												<ul>
+												<a href="articles.php">Articles</a>
+												<!-- <ul> -->
 													<!-- Unlinking the Services Option -->
 													<!-- <li>
 														<a href="book-our-services.php">Book Our Services</a>
 													</li> -->
-													<li>
-														<a href="https://www.linkedin.com/in/titusngatiatnt/detail/recent-activity/posts/" target="_blank">Articles by TNT</a>
-													</li>
-												</ul>
+													<!-- creating a new articles template page below -->
+													<!-- <li>
+														<a href="https://www.linkedin.com/in/titusngatiatnt/detail/recent-activity/posts/" target="_blank">Published Articles</a>
+													</li> -->
+												<!-- </ul> -->
 											</li>
 
 											<li>
@@ -151,7 +152,7 @@
 							<div class="col-md-3 text-right">
 								<span class="hidden-xs hidden-sm">
 									<a href="https://www.facebook.com/TitusNgatiaTNT/" class="social-icon border-icon rounded-icon color-icon soc-facebook" target="_blank"></a>
-									<a href="https://twitter.com/TNTIam" class="social-icon border-icon rounded-icon color-icon soc-twitter" target="_blank"></a>
+									<a href="https://twitter.com/TTNgatia" class="social-icon border-icon rounded-icon color-icon soc-twitter" target="_blank"></a>
 									<a href="https://www.instagram.com/titusngatiatnt/" class="social-icon border-icon rounded-icon color-icon soc-instagram" target="_blank"></a>
 									<a href="https://www.linkedin.com/in/titusngatiatnt/" class="social-icon border-icon rounded-icon color-icon soc-linkedin" target="_blank"></a>
 									<a href="https://www.youtube.com/channel/UCIDPEcnyp9iiFH-5q9KG7BQ?view_as=public" class="social-icon border-icon rounded-icon color-icon soc-youtube" target="_blank"></a>

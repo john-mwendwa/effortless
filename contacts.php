@@ -159,7 +159,7 @@
 								</div>
                           <!-- Updated the location on contact page -->
 								<p>
-									<br> United Nations Crescent, Gigiri, Nairobi, Kenya
+								United Nations Crescent, Gigiri, Nairobi, Kenya
 								</p>
 
 							</div>
