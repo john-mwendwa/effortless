@@ -160,6 +160,8 @@
                           <!-- Updated the location on contact page -->
 								<p>
 								United Nations Crescent, Gigiri, Nairobi, Kenya
+
+									<br> iHUb Nairobi, Nairobi, Kenya
 								</p>
 
 							</div>

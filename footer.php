@@ -12,7 +12,12 @@
 						</div>
 						<!-- Updated the location -->
 						<div class="media-body">
-						United Nations Crescent, Gigiri, Nairobi Kenya
+<
+							<p>
+								United Nations Crescent, Gigiri, Nairobi, Kenya
+
+									<br> iHUb Nairobi, Nairobi, Kenya
+								</p>
 						</div>
 					</div>
 					<div class="media thin-media">
