@@ -13,7 +13,6 @@
 						<!-- Updated the location -->
 						<div class="media-body">
 						United Nations Crescent, Gigiri, Nairobi Kenya
-						<br> iHub Nairobi, Nairobi, Kenya
 						</div>
 					</div>
 					<div class="media thin-media">
@@ -24,12 +23,6 @@
 							+254 718 727587 
 						</div>
 					</div>
-					
-				</div>
-			</div>
-
-
-		<div class="col-md-6 col-sm-6">
 					<div class="media thin-media">
 						<div class="media-left fontsize_16">
 							<i class="fa fa-pencil"></i>
@@ -46,8 +39,37 @@
 						<a href="https://www.linkedin.com/in/titusngatiatnt/" class="social-icon color-bg-icon rounded-icon soc-linkedin" target="_blank"></a>
 						<a href="https://www.youtube.com/channel/UCIDPEcnyp9iiFH-5q9KG7BQ?view_as=public" class="social-icon color-bg-icon rounded-icon soc-youtube" target="_blank"></a>
 					</div>
+				</div>
+			</div>
 
-					</div> 
+<!-- Unlinking the Newsletter section -->
+		<!--	<div class="col-md-6 col-sm-6">
+				<div class="widget widget_mailchimp">
+
+					<h3 class="widget-title">Newsletter</h3>
+
+					<p>Subscribe to our latest news to be updated, we promise not to spam!</p> -->
+
+					<!-- Begin MailChimp Signup Form -->
+<!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:transparent; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style> -->
+<!-- <div id="mc_embed_signup">
+<form action="https://effortlessinsightafrica.us18.list-manage.com/subscribe/post?u=4841089b6b9d0fe24c788955f&amp;id=8c1e028c3b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll"> -->
+	
+	<!-- <input type="email" value="" name="EMAIL" class="email form-control pad-input" id="mce-EMAIL" placeholder="Email address" required> -->
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <!-- <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4841089b6b9d0fe24c788955f_8c1e028c3b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button theme_button"></div>
+    </div>
+</form>
+</div> -->
+
+<!--End mc_embed_signup-->
 
 				</div>
 			</div>
@@ -89,6 +111,27 @@
 <script src="js/compressed.js"></script>
 <script src="js/main.js"></script>
 
+   <!-- Bootstrap core JavaScript -->
+   <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/accordions.js"></script>
+
+    <script language = "text/Javascript"> 
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t){                   //declaring the array outside of the
+      if(! cleared[t.id]){                      // function makes it static and global
+          cleared[t.id] = 1;  // you could use true and false, but that's more typing
+          t.value='';         // with more chance of typos
+          t.style.color='#fff';
+          }
+      }
+    </script>
 
 
 </body>
