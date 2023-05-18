@@ -2,8 +2,35 @@
 include "header.php";
 ?>
 
-   
 
+    <!-- Header -->
+    <header class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"><h2>EFFORTLESS INSIGHT AFRICA<em>.</em></h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.php">Home
+                </a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="about.php">About</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="articles.php">Articles</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.php">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
 
     <!-- Page Content -->
     <!-- Banner Starts Here -->
@@ -14,7 +41,8 @@ include "header.php";
             <div class="col-lg-12">
               <div class="text-content">
                 <h4>Article Posts</h4>
-                <h2>Our Recent Article Entries</h2>
+                <!--Remove the recent title-->
+                <!--<h2>Our Recent Article Entries</h2> -->
               </div>
             </div>
           </div>
@@ -48,7 +76,7 @@ include "header.php";
       </div>
     </section>
 
-
+<!-- Put the first article on top and the second below and put the information, side by side + Delete recent posts sections \Done/ -->
     <section class="blog-posts grid-system">
       <div class="container">
         <div class="row">
@@ -74,9 +102,15 @@ include "header.php";
                     </div>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
         
       
-     
+                <div class="container">
+               <div class="row">
                 <div class="col-lg-6">
                   <div class="blog-post">
                     <div class="blog-thumb">
@@ -95,6 +129,8 @@ include "header.php";
                   
                     </div>
                   </div>
+                </div>
+               </div>
                 </div>
                 
                  <!-- The Articles End here-->
@@ -123,7 +159,9 @@ include "header.php";
                     </form>
                   </div>
                 </div>
-                <div class="col-lg-12">
+
+                <!-- Unlinking this section due to repetition -->
+                <!-- <div class="col-lg-12">
                   <div class="sidebar-item recent-posts">
                     <div class="sidebar-heading">
                       <h2>Recent Posts</h2>
@@ -141,19 +179,15 @@ include "header.php";
                        </ul>
                     </div>
                   </div>
-                </div>
+                </div> -->
 
                 <!-- The Search Bar ends here-->
-
               </div>
             </div>
-          </section>
-
-
-    
+          </div>
+</section>
 
     
-
 
 
     <?php
