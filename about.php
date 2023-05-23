@@ -42,7 +42,7 @@
 							</p>
 						</div>
 						<div class="col-md-6 pp text-center bottommargin_0">
-							<img src="images/titus.jpg" alt="">
+							<img src="images/TNT.jpg" alt="">
 						</div>
 					</div>
 				</div>

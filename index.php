@@ -222,7 +222,7 @@ include "header.php";
 					<a href="about.php" class="theme_button inverse topmargin_30">Read more</a>
 				</div>
 				<div class="col-md-6 text-center bottommargin_0">
-					<img src="images/titus.jpg" alt="">
+					<img src="images/TNT.jpg" alt="">
 				</div>
 			</div>
 		</div>
